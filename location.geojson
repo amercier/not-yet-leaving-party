@@ -5,8 +5,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [43.591737, 1.433619]
+        "coordinates": [
+          1.433619,
+          43.591737
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "The Exchange",
+        "address": "1719 G St NW"
       }
-    }
+    },
   ]
 }
